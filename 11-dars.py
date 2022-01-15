@@ -3,7 +3,7 @@ Created by Mardonov Hoshim
 on 14 december 2021 year
 at 10:55 o'clock
 """
-menu = ["osh", 'somsa', 'shashlik', 'tarvuz', 'non', 'suv', 'salat']
+menu = ["osh", 'somsa', 'shashlik', 'tarvuz', 'non', 'suv', 'salat', 'qovun']
 ovqat = input("Nima buyurtma berasiz\n>>>")
 if ovqat.lower() not in menu:
     print("Afsus bizda bunday ovqat yoq")
